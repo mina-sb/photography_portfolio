@@ -12,7 +12,8 @@
 }
 body{
     background-color: var(--main-color);
- overflow: hidden;}
+ overflow: hidden;
+position: relative;}
 nav{
     display: flex;
     justify-content: space-between;
